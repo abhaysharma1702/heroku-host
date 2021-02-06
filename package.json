@@ -1,0 +1,24 @@
+{
+  "name": "TUTORIAL BOT",
+  "version": "0.0.1",
+  "description": "DISCORD.JS LETEST MUSIC BOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+   "discord.js": "^12.5.0"
+   },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "PARAS",
+    "MUSIC",
+    "PARAS-GAMING"
+  ]
+}
